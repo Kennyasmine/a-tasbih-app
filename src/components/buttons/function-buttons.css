@@ -1,0 +1,24 @@
+/* .lightMode {
+    background-color: #e6ebec;
+    color: #333;
+} */
+/* .darkMode {
+    background-color: #333;
+    color: #f0f0f0;
+} */
+ .darkToggle {
+    padding: 5px;
+    border-radius: 50px;
+    background-color: #819CA8;
+    border: none;
+ }
+ .darkToggle img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+ }
+ .functionBtns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+ }

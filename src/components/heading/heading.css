@@ -5,10 +5,12 @@
 .heading-text {
   color: white;
   margin-bottom: 1px;
+  font-size: 25px;
 }
 
 .reminder-text {
   color: #819ca8;
+  font-size: 20px;
 }
 
 .reminder-count {
