@@ -18,6 +18,7 @@ function FunctionButtons({ darkMode, setDarkMode}) {
 
     // useEffect(() => {
     //     document.body.className = darkMode ? 'lightMode' : 'darkMode'
+    //     console.log("darkMode")
     // }, [darkMode])
     
 

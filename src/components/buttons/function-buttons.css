@@ -1,11 +1,11 @@
-/* .lightMode {
+.lightMode {
     background-color: #e6ebec;
     color: #333;
-} */
-/* .darkMode {
+}
+.darkMode {
     background-color: #333;
     color: #f0f0f0;
-} */
+}
  .darkToggle {
     padding: 5px;
     border-radius: 50px;
